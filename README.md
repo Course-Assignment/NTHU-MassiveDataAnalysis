@@ -1,4 +1,1 @@
-# NTHU-MassiveDataAnalysis
-# NTHU-MassiveDataAnalysis
-# NTHU-MassiveDataAnalysis
-# NTHU-MassiveDataAnalysis
+# NTHU - Massive Data Analysis - 2020 Fall
